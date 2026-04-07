@@ -28,4 +28,3 @@ All successful submissions are automatically synced here via **LeetHub v2**, com
 - [ ] Bit Manipulation
 
 ---
-*“First, solve the problem. Then, write the code.” – John Johnson*
